@@ -69,7 +69,10 @@
 
 ## 🤝 Connect
 - GitHub: <https://github.com/DeGrinch>  
-- Open an issue on any repo if you’ve got questions
+- Discord: [CMOGaming](https://discord.gg/DWXTaEXyUe)  
+- Website: [cmogaming.com](https://cmogaming.com)  
+- Twitch: [twitch.tv/degrinchy](https://twitch.tv/degrinchy)  
+- Kick: [kick.com/degrinch](https://kick.com/degrinch)  
 
     </td>
   </tr>

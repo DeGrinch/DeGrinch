@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>Builder • Automator • Server tinkerer • Always shipping</em>
+  <em>Automator • Builder • Always shipping • Always Nerding On Something • Server tinkerer</em>
 </p>
 
 ---
@@ -21,6 +21,7 @@
     height="170"
     src="https://github-readme-stats.vercel.app/api?username=DeGrinch&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_title=false&hide_border=true"
   />
+<br>
   <img
     align="center"
     alt="Top Languages"
